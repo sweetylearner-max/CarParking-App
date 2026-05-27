@@ -1,49 +1,78 @@
-# parking_system
-Download [Vehicle Parking](https://github.com/D-extremity/Car-Parking-App/releases/download/vehicle_parking_v2.0/vehicle-parking.apk)
+# Car Parking App
 
+Download [Vehicle Parking APK](https://github.com/sweetylearner-max/CarParking-App/releases)
 
+## About
 
+A smart Car Parking management app built with Flutter and Firebase. The app allows users to find, book, and manage parking spots with ease.
 
-## Preview Of Car Parking APP :)
+## Tech Stack
 
-### Main Working At Glance
+Car Parking App mainly uses:
 
+- [Flutter](https://flutter.dev/) - Cross-platform mobile framework
+- [Firebase](https://firebase.google.com/) - Backend & Authentication
 
-https://github.com/D-extremity/Car-Parking-App/assets/83233310/319530aa-5b88-4a59-9363-044b9abc0230
+## Features
 
+- 🔍 Find available parking spots
+- 📍 Real-time location tracking
+- 🔐 Firebase authentication
+- 📱 Cross-platform (Android & iOS)
+- 🅿️ Book and manage parking slo
 
-## Tech
+### Prerequisites
 
-Car Parking mainly uses :
+- Install [Flutter](https://flutter.dev/docs/get-started/install)
+- Install [Android Studio](https://developer.android.com/studio) or VS Code
+- Setup Firebase project
 
-- [Flutter](https://flutter.dev/) 
-- [Firebase](https://firebase.google.com/)
+### Installation
 
-## To Contribute
+1. Clone the repository
+   ```sh
+   git clone https://github.com/sweetylearner-max/CarParking-App.git
+   ```
+
+2. Navigate to project folder
+   ```sh
+   cd CarParking-App
+   ```
+
+3. Install dependencies
+   ```sh
+   flutter pub get
+   ```
+
+4. Run the app
+   ```sh
+   flutter run
+   ```
+
+## Contributing
 
 Want to contribute? Great!
 
-Prerequisite - Install Flutter ;)
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-Open your favorite Terminal and run these commands.
-1. Fork The reporsitory [Car Parking](https://github.com/D-extremity/Car-Parking-App)
-2. Copy link of your cloned repository
-3. One your favourite terminal wherever you want to keep the files of car parking
-4. Run Below Commands :)
+## License
 
-Your Favourite terminal at your specified location :
-```sh
-git clone 'paste that Url'
-```
-5. Now Open that folder either in VS code or Android Studio 
-6. then run below code
-Second Tab:
+This project is open source and available under the [MIT License](LICENSE).
 
-```sh
-flutter pub get
-```
+---
 
-7. Make your valuable Contribution
-8. Push your code with proper commit message
+## Author
 
-## Thanks :)
+**Developed by Akanksha**
+
+- GitHub: [@sweetylearner-max](https://github.com/sweetylearner-max)
+
+---
+
+<p align="center">
+  <strong>Built with ❤️ using Flutter & Firebase</strong>
+</p>
